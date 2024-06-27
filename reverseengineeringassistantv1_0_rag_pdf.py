@@ -7,7 +7,6 @@ Original file is located at
     https://colab.research.google.com/drive/18qjhyE5yfnfGaSdYTUyIlu7GmHCtgiFH
 
 #Reverse Engineering Assistant V1.0
-This takes the
 """
 
 !pip install langchain langchain_community langchain_chroma langchain-openai langchainhub unstructured[pdf]
