@@ -85,7 +85,7 @@ response = qachat({"question": user_question})
 ai_response_content = response['answer']
 print(ai_response_content)
 
-"""#With Chat Memory"""
+"""#With Nice Formatting"""
 
 retriever = vectorstore.as_retriever()
 prompt = hub.pull("byteberzerker/reverse_helper")
